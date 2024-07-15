@@ -1,7 +1,7 @@
 import React from "react";
 
 function NotFound() {
-  return <div className="text-white">NotFound</div>;
+  return <div style={{textDecoration:"none",color:"white"}}>NotFound</div>;
 }
 
 export default NotFound;
